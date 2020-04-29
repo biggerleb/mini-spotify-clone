@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/biggerleb/mini-spotify-clone/precache-manifest.e2116f2244117bc10a830f22669e8981.js"
+  "/mini-spotify-clone/precache-manifest.96ad5be15c2af51e2435726fa5303b2b.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/biggerleb/mini-spotify-clone/index.html", {
+workbox.routing.registerNavigationRoute("/mini-spotify-clone/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });

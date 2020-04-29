@@ -1,13 +1,13 @@
 {
-  "main.css": "/biggerleb/mini-spotify-clone/static/css/main.93fbc697.chunk.css",
-  "main.js": "/biggerleb/mini-spotify-clone/static/js/main.14024a3f.chunk.js",
-  "main.js.map": "/biggerleb/mini-spotify-clone/static/js/main.14024a3f.chunk.js.map",
-  "runtime~main.js": "/biggerleb/mini-spotify-clone/static/js/runtime~main.1eaf5917.js",
-  "runtime~main.js.map": "/biggerleb/mini-spotify-clone/static/js/runtime~main.1eaf5917.js.map",
-  "static/js/2.ad8d7e10.chunk.js": "/biggerleb/mini-spotify-clone/static/js/2.ad8d7e10.chunk.js",
-  "static/js/2.ad8d7e10.chunk.js.map": "/biggerleb/mini-spotify-clone/static/js/2.ad8d7e10.chunk.js.map",
-  "index.html": "/biggerleb/mini-spotify-clone/index.html",
-  "precache-manifest.e2116f2244117bc10a830f22669e8981.js": "/biggerleb/mini-spotify-clone/precache-manifest.e2116f2244117bc10a830f22669e8981.js",
-  "service-worker.js": "/biggerleb/mini-spotify-clone/service-worker.js",
-  "static/css/main.93fbc697.chunk.css.map": "/biggerleb/mini-spotify-clone/static/css/main.93fbc697.chunk.css.map"
+  "main.css": "/mini-spotify-clone/static/css/main.93fbc697.chunk.css",
+  "main.js": "/mini-spotify-clone/static/js/main.0ac62d38.chunk.js",
+  "main.js.map": "/mini-spotify-clone/static/js/main.0ac62d38.chunk.js.map",
+  "runtime~main.js": "/mini-spotify-clone/static/js/runtime~main.dfd2d8d4.js",
+  "runtime~main.js.map": "/mini-spotify-clone/static/js/runtime~main.dfd2d8d4.js.map",
+  "static/js/2.ad8d7e10.chunk.js": "/mini-spotify-clone/static/js/2.ad8d7e10.chunk.js",
+  "static/js/2.ad8d7e10.chunk.js.map": "/mini-spotify-clone/static/js/2.ad8d7e10.chunk.js.map",
+  "index.html": "/mini-spotify-clone/index.html",
+  "precache-manifest.96ad5be15c2af51e2435726fa5303b2b.js": "/mini-spotify-clone/precache-manifest.96ad5be15c2af51e2435726fa5303b2b.js",
+  "service-worker.js": "/mini-spotify-clone/service-worker.js",
+  "static/css/main.93fbc697.chunk.css.map": "/mini-spotify-clone/static/css/main.93fbc697.chunk.css.map"
 }
